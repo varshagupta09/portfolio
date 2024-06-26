@@ -21,7 +21,7 @@ Frontend Developer
         </div>
         <div className="'w-full lg:w-1/2 lg:p-8">
 <div className="flex justify-center ">
-    <img src={profilePic} alt="Varsha Gupta" className="rounded-xl"/>
+    <img src={profilePic} alt="Varsha Gupta" className="rounded-2xl"/>
 
 </div>
       </div>
